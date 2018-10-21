@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 73015529287ee7347aafa6e5e6d3a044
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.target
+    100004: Corona_Sun
+    100006: Created_By
+    100008: Light
+    100010: Moon_
+    100012: Moon_Terra
+    100014: //RootNode
+    100016: TooBig0
+    100018: TooBig1
+    100020: TooBig10
+    100022: TooBig11
+    100024: TooBig12
+    100026: TooBig13
+    100028: TooBig14
+    100030: TooBig15
+    100032: TooBig16
+    100034: TooBig17
+    100036: TooBig18
+    100038: TooBig19
+    100040: TooBig2
+    100042: TooBig20
+    100044: TooBig21
+    100046: TooBig3
+    100048: TooBig4
+    100050: TooBig5
+    100052: TooBig6
+    100054: TooBig7
+    100056: TooBig8
+    100058: TooBig9
+    400000: Camera
+    400002: Camera.target
+    400004: Corona_Sun
+    400006: Created_By
+    400008: Light
+    400010: Moon_
+    400012: Moon_Terra
+    400014: //RootNode
+    400016: TooBig0
+    400018: TooBig1
+    400020: TooBig10
+    400022: TooBig11
+    400024: TooBig12
+    400026: TooBig13
+    400028: TooBig14
+    400030: TooBig15
+    400032: TooBig16
+    400034: TooBig17
+    400036: TooBig18
+    400038: TooBig19
+    400040: TooBig2
+    400042: TooBig20
+    400044: TooBig21
+    400046: TooBig3
+    400048: TooBig4
+    400050: TooBig5
+    400052: TooBig6
+    400054: TooBig7
+    400056: TooBig8
+    400058: TooBig9
+    2100000: Corona Renderer
+    2300000: Corona_Sun
+    2300002: Created_By
+    2300004: Moon_
+    2300006: Moon_Terra
+    2300008: TooBig0
+    2300010: TooBig1
+    2300012: TooBig10
+    2300014: TooBig11
+    2300016: TooBig12
+    2300018: TooBig13
+    2300020: TooBig14
+    2300022: TooBig15
+    2300024: TooBig16
+    2300026: TooBig17
+    2300028: TooBig18
+    2300030: TooBig19
+    2300032: TooBig2
+    2300034: TooBig20
+    2300036: TooBig21
+    2300038: TooBig3
+    2300040: TooBig4
+    2300042: TooBig5
+    2300044: TooBig6
+    2300046: TooBig7
+    2300048: TooBig8
+    2300050: TooBig9
+    3300000: Corona_Sun
+    3300002: Created_By
+    3300004: Moon_
+    3300006: Moon_Terra
+    3300008: TooBig0
+    3300010: TooBig1
+    3300012: TooBig10
+    3300014: TooBig11
+    3300016: TooBig12
+    3300018: TooBig13
+    3300020: TooBig14
+    3300022: TooBig15
+    3300024: TooBig16
+    3300026: TooBig17
+    3300028: TooBig18
+    3300030: TooBig19
+    3300032: TooBig2
+    3300034: TooBig20
+    3300036: TooBig21
+    3300038: TooBig3
+    3300040: TooBig4
+    3300042: TooBig5
+    3300044: TooBig6
+    3300046: TooBig7
+    3300048: TooBig8
+    3300050: TooBig9
+    4300000: Corona_Sun
+    4300002: Created_By
+    4300004: Moon_Terra
+    4300006: Moon_
+    4300008: TooBig0
+    4300010: TooBig1
+    4300012: TooBig2
+    4300014: TooBig3
+    4300016: TooBig4
+    4300018: TooBig5
+    4300020: TooBig6
+    4300022: TooBig7
+    4300024: TooBig8
+    4300026: TooBig9
+    4300028: TooBig10
+    4300030: TooBig11
+    4300032: TooBig12
+    4300034: TooBig13
+    4300036: TooBig14
+    4300038: TooBig15
+    4300040: TooBig16
+    4300042: TooBig17
+    4300044: TooBig18
+    4300046: TooBig19
+    4300048: TooBig20
+    4300050: TooBig21
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
